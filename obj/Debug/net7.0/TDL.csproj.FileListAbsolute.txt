@@ -1,0 +1,15 @@
+C:\Users\user\Documents\TDL\bin\Debug\net7.0\TDL.exe
+C:\Users\user\Documents\TDL\bin\Debug\net7.0\TDL.deps.json
+C:\Users\user\Documents\TDL\bin\Debug\net7.0\TDL.runtimeconfig.json
+C:\Users\user\Documents\TDL\bin\Debug\net7.0\TDL.dll
+C:\Users\user\Documents\TDL\bin\Debug\net7.0\TDL.pdb
+C:\Users\user\Documents\TDL\obj\Debug\net7.0\TDL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\TDL\obj\Debug\net7.0\TDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\TDL\obj\Debug\net7.0\TDL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\TDL\obj\Debug\net7.0\TDL.AssemblyInfo.cs
+C:\Users\user\Documents\TDL\obj\Debug\net7.0\TDL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\TDL\obj\Debug\net7.0\TDL.dll
+C:\Users\user\Documents\TDL\obj\Debug\net7.0\refint\TDL.dll
+C:\Users\user\Documents\TDL\obj\Debug\net7.0\TDL.pdb
+C:\Users\user\Documents\TDL\obj\Debug\net7.0\TDL.genruntimeconfig.cache
+C:\Users\user\Documents\TDL\obj\Debug\net7.0\ref\TDL.dll
